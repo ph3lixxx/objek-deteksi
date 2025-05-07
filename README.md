@@ -1,5 +1,7 @@
 # Realtime object detection
 
+![BLUE Banner](https://media2.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif?cid=6c09b952ug0cyozv85q38vqq50uxr74qb56gl4h8g3tfy0j4&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
+
 ## Instructions
 
 1. `git clone https://github.com/ph3lixxx/objek-deteksi'
